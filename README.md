@@ -1,19 +1,22 @@
-\<p align="center"\>  
-\<img src="https://i.postimg.cc/PxGWv9df/fren.png" alt="FREN Bot Logo" width="150"\>  
-\</p\>  
-\<h1 align="center"\>FREN Discord Bot 🐾\</h1\>
+<p align="center">
+<img src="https://i.postimg.cc/PxGWv9df/fren.png" alt="FREN Bot Logo" width="150">
+</p>
 
-\<p align="center"\>  
-\<strong\>Your all-in-one companion for a more engaging, fun, and productive Discord server.\</strong\>  
-\</p\>  
-\<p align="center"\>  
-\<a href="https://discord.gg/uCBqzxPps7"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/discord/1329078916748546069%3Fcolor%3D5865F2%26label%3DSupport%2520Server%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord Server"\>  
-\</a\>  
-\<a href="https://patreon.com/frenbot"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Patreon-Support%2520Us-F96854%3Flogo%3Dpatreon" alt="Patreon"\>  
-\</a\>  
-\</p\>  
+<h1 align="center">FREN Discord Bot 🐾</h1>
+
+<p align="center">
+<strong>Your all-in-one companion for a more engaging, fun, and productive Discord server.</strong>
+</p>
+
+<p align="center">
+<a href="https://discord.gg/uCBqzxPps7">
+<img src="https://www.google.com/search?q=https://img.shields.io/discord/1329078916748546069%3Fcolor%3D5865F2%26label%3DSupport%2520Server%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord Server">
+</a>
+<a href="https://patreon.com/frenbot">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Patreon-Support%2520Us-F96854%3Flogo%3Dpatreon" alt="Patreon">
+</a>
+</p>
+
 **FREN** is a feature-rich Discord bot designed to be your server's best friend. From advanced AI capabilities and engaging games to powerful utility and moderation tools, FREN has everything you need to create a vibrant and well-managed community.
 
 ## **✨ Key Features**
@@ -82,6 +85,6 @@ Your privacy and fair usage are important to us.
 * [**Privacy Policy**](https://www.google.com/search?q=./Privacy%2520Policy.md)**:** Learn about the minimal data we collect and why it's necessary for the bot to function.  
 * [**Terms of Service**](https://www.google.com/search?q=./Terms%2520of%2520Service.md)**:** Our rules for using FREN responsibly.
 
-\<p align="center"\>  
-Thank you for choosing FREN\! We're excited to be a part of your community.  
-\</p\>
+<p align="center">
+Thank you for choosing FREN! We're excited to be a part of your community.
+</p>
