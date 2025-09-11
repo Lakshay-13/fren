@@ -10,10 +10,10 @@
 
 <p align="center">
 <a href="https://discord.gg/uCBqzxPps7">
-<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source&h=307" alt="Discord Server">
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source&h=307" alt="Discord Server" height="40">
 </a>
 <a href="https://patreon.com/frenbot">
-<img src="https://ps.w.org/patreon-connect/assets/icon-256x256.png?rev=1782351" alt="Patreon">
+<img src="https://ps.w.org/patreon-connect/assets/icon-256x256.png?rev=1782351" alt="Patreon" height="40">
 </a>
 </p>
 
@@ -78,14 +78,7 @@ Powerful tools to keep your server organized and running smoothly.
 * [**Patreon**](https://patreon.com/frenbot)**:** Support the development of FREN and unlock premium features.  
 * [**Website & Donate**](https://lakshay-13.github.io/fren/)**:** Learn more about FREN and find other ways to support the project.
 
-## **📜 Policies**
 
-Your privacy and fair usage are important to us.
-
-* [**Privacy Policy**](https://raw.githubusercontent.com/Lakshay-13/fren/refs/heads/main/Privacy%20Policy.md)**:** Learn about the minimal data we collect and why it's necessary for the bot to function.  
-* [**Terms of Service**](https://raw.githubusercontent.com/Lakshay-13/fren/refs/heads/main/Terms%20of%20Service.md)**:** Our rules for using FREN responsibly.
-
-<br>
 <p align="center">
 Thank you for choosing FREN! We're excited to be a part of your community.
 </p>
