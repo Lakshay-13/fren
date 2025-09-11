@@ -10,10 +10,10 @@
 
 <p align="center">
 <a href="https://discord.gg/uCBqzxPps7">
-<img src="https://www.google.com/search?q=https://img.shields.io/discord/1329078916748546069%3Fcolor%3D5865F2%26label%3DSupport%2520Server%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord Server">
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source&h=307" alt="Discord Server">
 </a>
 <a href="https://patreon.com/frenbot">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Patreon-Support%2520Us-F96854%3Flogo%3Dpatreon" alt="Patreon">
+<img src="https://ps.w.org/patreon-connect/assets/icon-256x256.png?rev=1782351" alt="Patreon">
 </a>
 </p>
 
@@ -68,7 +68,7 @@ Powerful tools to keep your server organized and running smoothly.
 
 ## **🚀 Getting Started**
 
-1. **Invite FREN:** [Click here to add FREN to your Discord server\!](https://www.google.com/search?q=https://discord.com/oauth2/authorize?client_id%3DYOUR_BOT_ID_HERE)  
+1. **Invite FREN:** [Click here to add FREN to your Discord server\!](https://discord.com/oauth2/authorize?client_id=1399878002065805472&permissions=387136&integration_type=0&scope=bot+applications.commands)  
 2. **View Commands:** Type /help in your server to see the full list of commands and features.  
 3. **Configure (Admins):** Use commands like /welcome, /donoset, and /owoprefix to tailor FREN to your server's needs.
 
@@ -82,9 +82,10 @@ Powerful tools to keep your server organized and running smoothly.
 
 Your privacy and fair usage are important to us.
 
-* [**Privacy Policy**](https://www.google.com/search?q=./Privacy%2520Policy.md)**:** Learn about the minimal data we collect and why it's necessary for the bot to function.  
-* [**Terms of Service**](https://www.google.com/search?q=./Terms%2520of%2520Service.md)**:** Our rules for using FREN responsibly.
+* [**Privacy Policy**](https://raw.githubusercontent.com/Lakshay-13/fren/refs/heads/main/Privacy%20Policy.md)**:** Learn about the minimal data we collect and why it's necessary for the bot to function.  
+* [**Terms of Service**](https://raw.githubusercontent.com/Lakshay-13/fren/refs/heads/main/Terms%20of%20Service.md)**:** Our rules for using FREN responsibly.
 
+<br>
 <p align="center">
 Thank you for choosing FREN! We're excited to be a part of your community.
 </p>
